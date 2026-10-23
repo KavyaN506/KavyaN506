@@ -23,18 +23,6 @@ Currently learning: `PyTorch basics` `Power BI` `RAG basics`
 
 ---
 
-#### 📊 DSA Progress for Visa
-- [x] Target: 2 Easy + 1 Medium
-- [ ] Arrays & HashMap (24-25 Oct)
-- [ ] Strings & Sliding Window (26-27 Oct)
-- [ ] Mock OA (29 Oct)
-
-#### 🎯 Goals 2026-27
-- Secure CERN / International research internship (my long-term dream)
-- Build 1 end-to-end RAG project
-
----
-
 #### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/kavya-n-311255211/
 - Email: nairkavya73@gmail.com
