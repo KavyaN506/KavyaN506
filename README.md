@@ -1,4 +1,5 @@
 ## Hi there 👋
+### I'm Kavya Nair — MCA @ MANIT Bhopal
 **Focus:** Data & AI | Python, scikit-learn, RAG
 **Projects:** Diabetes Risk Prediction, House Price Prediction (pandas, matplotlib, sklearn)
 - 📫 Reach: https://www.linkedin.com/in/kavya-n-311255211/?isSelfProfile=true
